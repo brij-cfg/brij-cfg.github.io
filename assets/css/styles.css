@@ -8,6 +8,11 @@
 */
 /* styles.css */
 /* ======= Base ======= */
+.idea{
+text-align:center;
+}
+
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
