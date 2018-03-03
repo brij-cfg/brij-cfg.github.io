@@ -253,13 +253,14 @@ p {
   background: #32383e;
   color: #fff;
  padding-top: 60px;
-    margin-left: 85px;
-  margin-right: 85px;
+    margin-left: 97px;
+  margin-right: 97px;
 }
 .footer .copyright {
   line-height: 1.6;
   color: #a1aab4;
   font-size: 14px;
+  
 }
 .footer .fa-heart {
   color: #fb866a;
