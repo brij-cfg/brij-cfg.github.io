@@ -63,7 +63,8 @@ p {
 .sidebar-wrapper a {
   color: #fff;
 }
-.sidebar-wrapper .profile-container {
+.sidebar-wrapper .
+-container {
   padding: 30px;
   background: rgba(0, 0, 0, 0.2);
   text-align: center;
@@ -84,8 +85,8 @@ p {
 }
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
-  width: 100px;
-  height: 100px; 
+  width: 100%;
+  height: auto; 
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
