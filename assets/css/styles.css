@@ -9,7 +9,9 @@
 /* styles.css */
 /* ======= Base ======= */
 .idea{
-text-align:center;
+    text-align: center;
+    padding-right: 185px;
+    padding-bottom: 30px;
 }
 
 
